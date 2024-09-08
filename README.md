@@ -46,7 +46,7 @@ Sou apaixonado por desenvolvimento web e estou sempre em busca de desafios que m
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-ruthes-941346123/)
 - 📫 Você pode me encontrar no GitHub como [Bruyen72](https://github.com/Bruyen72)
-
+  🌐 Meu Portfolio (https://devruthes.netlify.app/)
 ---
 
 ## 📈 Estatísticas do GitHub
